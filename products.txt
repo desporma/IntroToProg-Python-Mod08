@@ -1,0 +1,5 @@
+Chair|5.0
+Stool|10.0
+Hammer|3.0
+Nail|1.1
+Bowl|17.0
